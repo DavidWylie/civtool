@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.wylie.emptyexample.MainActivity">
+    <item
+        android:id="@+id/hand_calculator"
+        android:orderInCategory="100"
+        android:title="@string/hand_calculator"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/civ_cards"
+        android:orderInCategory="100"
+        android:title="@string/civ_cards"
+        app:showAsAction="never" />
+</menu>

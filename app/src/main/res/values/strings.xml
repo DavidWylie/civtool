@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Civ Hand Calculator</string>
+    <string name="hand_calculator">Hand Calculator</string>
+    <string name="civ_cards">Civ Cards</string>
+    <string name="card_type_name">Name</string>
+    <string name="card_type_count">Count</string>
+</resources>

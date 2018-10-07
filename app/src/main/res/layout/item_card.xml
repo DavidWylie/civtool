@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/list_card_item"
+    android:layout_width="118dp"
+    android:layout_height="wrap_content"
+    android:backgroundTint="?android:attr/colorBackgroundFloating"
+    android:drawableTop="@drawable/timber"
+    android:drawablePadding="8dp"
+    android:text="@string/card_type_count"
+    android:textAppearance="@style/TextAppearance.AppCompat.Large" />
